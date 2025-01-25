@@ -7,10 +7,8 @@ Features
 1.	General Metrics:
    
 	  Total Employees: 1,470
-
-	  Attrition Count: 237
-
-	  Attrition Rate: 16.1%
+          Attrition Count: 237
+  	  Attrition Rate: 16.1%
 
 	  Average Age: 37 years
 
