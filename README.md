@@ -5,30 +5,45 @@ The HR Analytics Dashboard provides a comprehensive analysis of employee attriti
 
 Features
 1.	General Metrics:
-o	Total Employees: 1,470
-o	Attrition Count: 237
-o	Attrition Rate: 16.1%
-o	Average Age: 37 years
-o	Average Income: $7,000
-o	Average Tenure: 7 years
-2.	Attrition by Demographics:
-o	Education: Attrition breakdown by educational background (e.g., Life Sciences, Medical, Marketing).
-o	Age Group: Analysis of attrition rates across different age ranges.
-o	Gender: Comparison of male and female attrition rates.
-3.	Attrition by Salary:
-o	Visualization of how salary levels correlate with employee turnover.
-4.	Attrition by Job Role:
-o	Identification of roles with the highest and lowest attrition.
-5.	Attrition by Tenure:
-o	Insights into employee retention based on years of service.
+   
+	  Total Employees: 1,470
+
+	  Attrition Count: 237
+
+	  Attrition Rate: 16.1%
+
+	  Average Age: 37 years
+
+	  Average Income: $7,000
+
+	  Average Tenure: 7 years
+
+3.	Attrition by Demographics:
+	  Education: Attrition breakdown by educational background (e.g., Life Sciences, Medical, Marketing).
+  	
+	  Age Group: Analysis of attrition rates across different age ranges.
+  	
+    Gender: Comparison of male and female attrition rates.
+  	
+5.	Attrition by Salary:
+   	Visualization of how salary levels correlate with employee turnover.
+  	
+7.	Attrition by Job Role:
+   	Identification of roles with the highest and lowest attrition.
+  	
+9.	Attrition by Tenure:
+    Insights into employee retention based on years of service.
 
 Insights
 1.	Demographic Trends:
-o	Younger employees (26–35 years) have the highest attrition rates.
-o	Male employees show higher attrition compared to females.
-2.	Compensation Impact:
-o	Employees earning up to $5,000 face the highest attrition, suggesting salary dissatisfaction as a major factor.
-3.	Role-Specific Challenges:
-o	Laboratory Technicians and Sales Executives experience the highest turnover.
-4.	Retention Patterns:
-o	Employees with longer tenure (10+ years) exhibit strong retention, indicating higher satisfaction and loyalty.
+  	Younger employees (26–35 years) have the highest attrition rates.
+  	Male employees show higher attrition compared to females.
+  	
+3.	Compensation Impact:
+    Employees earning up to $5,000 face the highest attrition, suggesting salary dissatisfaction as a major factor.
+  	
+5.	Role-Specific Challenges:
+   	Laboratory Technicians and Sales Executives experience the highest turnover.
+  	
+7.	Retention Patterns:
+    Employees with longer tenure (10+ years) exhibit strong retention, indicating higher satisfaction and loyalty.
