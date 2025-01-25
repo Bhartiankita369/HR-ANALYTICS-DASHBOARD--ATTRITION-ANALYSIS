@@ -23,7 +23,7 @@ Features
   	
 	  Age Group: Analysis of attrition rates across different age ranges.
   	
-           Gender: Comparison of male and female attrition rates.
+    Gender: Comparison of male and female attrition rates.
   	
 5.	Attrition by Salary:
    	Visualization of how salary levels correlate with employee turnover.
