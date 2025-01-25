@@ -1,7 +1,8 @@
 # HR-ANALYTICS-DASHBOARD--ATTRITION-ANALYSIS
 Overview
+
 The HR Analytics Dashboard provides a comprehensive analysis of employee attrition within a company. It visualizes key metrics and trends related to employee turnover, allowing HR teams to identify patterns and take actionable steps to improve retention.
-________________________________________
+
 Features
 1.	General Metrics:
 o	Total Employees: 1,470
@@ -20,7 +21,7 @@ o	Visualization of how salary levels correlate with employee turnover.
 o	Identification of roles with the highest and lowest attrition.
 5.	Attrition by Tenure:
 o	Insights into employee retention based on years of service.
-________________________________________
+
 Insights
 1.	Demographic Trends:
 o	Younger employees (26–35 years) have the highest attrition rates.
