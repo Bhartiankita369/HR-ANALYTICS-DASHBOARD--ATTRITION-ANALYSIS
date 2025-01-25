@@ -7,7 +7,9 @@ Features
 1.	General Metrics:
    
 	  Total Employees: 1,470
-          Attrition Count: 237
+
+  	  Attrition Count: 237
+
   	  Attrition Rate: 16.1%
 
 	  Average Age: 37 years
@@ -21,7 +23,7 @@ Features
   	
 	  Age Group: Analysis of attrition rates across different age ranges.
   	
-    Gender: Comparison of male and female attrition rates.
+           Gender: Comparison of male and female attrition rates.
   	
 5.	Attrition by Salary:
    	Visualization of how salary levels correlate with employee turnover.
@@ -30,7 +32,7 @@ Features
    	Identification of roles with the highest and lowest attrition.
   	
 9.	Attrition by Tenure:
-    Insights into employee retention based on years of service.
+        Insights into employee retention based on years of service.
 
 Insights
 1.	Demographic Trends:
@@ -38,10 +40,10 @@ Insights
   	Male employees show higher attrition compared to females.
   	
 3.	Compensation Impact:
-    Employees earning up to $5,000 face the highest attrition, suggesting salary dissatisfaction as a major factor.
+        Employees earning up to $5,000 face the highest attrition, suggesting salary dissatisfaction as a major factor.
   	
 5.	Role-Specific Challenges:
    	Laboratory Technicians and Sales Executives experience the highest turnover.
   	
 7.	Retention Patterns:
-    Employees with longer tenure (10+ years) exhibit strong retention, indicating higher satisfaction and loyalty.
+        Employees with longer tenure (10+ years) exhibit strong retention, indicating higher satisfaction and loyalty.
