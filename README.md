@@ -47,3 +47,13 @@ Insights
   	
 7.	Retention Patterns:
         Employees with longer tenure (10+ years) exhibit strong retention, indicating higher satisfaction and loyalty.
+
+Dataset 
+
+
+
+Tools and technologies 
+
+
+
+![image](https://github.com/user-attachments/assets/a3d61d97-5b8f-42f4-b31e-e772f49f37df)
